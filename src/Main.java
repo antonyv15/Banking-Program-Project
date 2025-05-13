@@ -11,6 +11,7 @@ public class Main {
         double balance = 0;
         boolean isRunning = true;
         int choice;
+        int real;
 
         while(isRunning){
             System.out.println("***************");
